@@ -146,6 +146,5 @@ def generadorUsers():
     r.set(name, json_user)
     return json.loads(json_user)
 
-
-if __name__ == "__main__":
-    app.run(debug=True)
+if __name__ == 'main__':
+    app.run(debug=True, host='0.0.0.0')

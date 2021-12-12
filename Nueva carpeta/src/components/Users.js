@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-const API ="http://backend:5000"
+const API = process.env.REACT_APP_API;
 
 export const Users = () => {
   const [nombre, setnombre] = useState("");
