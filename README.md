@@ -34,3 +34,5 @@ docker-compose up --build
 
 ## Agradecimientos Especiales
 A Manuel Gerardo Morales Ramos por ayudarnos con Docker y por ayudarnos con el error del puerto 5000 aunque a Docker le haya valido:(
+
+A la virgen que no nos ayudo en su dia:(
