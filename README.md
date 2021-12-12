@@ -26,6 +26,12 @@
 docker-compose up --build
 ```
 - Iniciar en `https://localhost:5000`
+
+## Screenshots
+![Screen1](Screen4.png)
+
+![Screen1](Screen5.png)
+
 ### Diagrama Base de Datos
 ![diagramaBD.png](diagramaBD.png)
 
