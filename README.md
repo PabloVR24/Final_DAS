@@ -28,5 +28,5 @@ docker-compose up --build
 ### Diagrama Base de Datos
 ![diagramaBD.png](diagramaBD.png)
 
-### Diagrama Base de Datos
+### Diagrama Arquitectura
 :(
