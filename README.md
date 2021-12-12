@@ -25,8 +25,12 @@
 ```
 docker-compose up --build
 ```
+- Iniciar en `https://localhost:5000`
 ### Diagrama Base de Datos
 ![diagramaBD.png](diagramaBD.png)
 
 ### Diagrama Arquitectura
 :(
+
+## Agradecimientos Especiales
+A Manuel Gerardo Morales Ramos por ayudarnos con Docker y por ayudarnos con el error del puerto 5000 aunque a Docker le haya valido:(
